@@ -55,7 +55,7 @@
 }
 
 .cajita {
-  -webkit-animation: animacion 3s linear 1s infinite alternate;
-          animation: animacion 3s linear 1s infinite alternate;
+  -webkit-animation: animacion 3s linear 1s alternate;
+          animation: animacion 3s linear 1s  alternate;
 }
 /*# sourceMappingURL=animaciones.css.map */

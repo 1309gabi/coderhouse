@@ -15,8 +15,8 @@
 }
  @keyframes animacion {
     from { }
-    to {transform: rotate(80deg);}
+    to {transform: rotateX(80deg);}
 }
 .cajita{
-      animation: animacion 3s linear 1s infinite alternate;
+      animation: animacion 3s linear 1s alternate;
 } 
